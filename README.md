@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Vishnu-Muthu
 - 👀 I’m interested in Machine Learning ,  Artificial Intelligence and Python Development
-- 🌱 I’m currently learning Machine Learning , Blockchain
+- 🌱 I’m currently learning Machine Learning , Data Science
 - 📫 How to reach me - Message me @github 
